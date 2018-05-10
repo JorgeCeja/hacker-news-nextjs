@@ -1,3 +1,4 @@
+[![Maintainability](https://api.codeclimate.com/v1/badges/f0d9fdc88072994b63ef/maintainability)](https://codeclimate.com/github/JorgeCeja/hacker-news-nextjs/maintainability)
 # NextJS Hacker News Reader
 
 WIP This is a project showcasing an example of a Progressive Web App PWA with NextJS.
